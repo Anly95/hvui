@@ -73,7 +73,7 @@ pnpm run build:pro
 
 ## 如何贡献
 
-你可以[提一个 issue](https://github.com/Anly95/hvui/issues/issues/new) 或者提交一个 Pull Request。
+你可以[提一个 issue](https://github.com/Anly95/hvui/issues/new) 或者提交一个 Pull Request。
 
 **Pull Request:**
 

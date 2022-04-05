@@ -78,16 +78,16 @@ export default {
     small: '小'
   },
   login: {
-    welcome: '欢迎使用本系统',
-    message: '开箱即用的中后台管理系统',
+    welcome: '高性能 / 精致 / 优雅',
+    message: '开箱即用的中后台前端解决方案',
     username: '用户名',
     password: '密码',
     login: '登录',
     otherLogin: '其他登录方式',
     remember: '记住我',
     forgetPassword: '忘记密码',
-    usernamePlaceholder: '用户名为 admin 或者 test ',
-    passwordPlaceholder: '密码为 admin 或者 test '
+    usernamePlaceholder: '用户名为 admin',
+    passwordPlaceholder: '密码为 123456'
   },
   router: {
     login: '登录',
