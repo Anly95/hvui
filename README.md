@@ -43,13 +43,13 @@ HVUI 是一个基于 `vue-element-plus-admin` 免费开源的中后台模版。�
 - 获取代码
 
 ```bash
-git clone https://github.com/kailong321200875/vue-element-plus-admin.git
+git clone https://github.com/Anly95/hvui.git
 ```
 
 - 安装依赖
 
 ```bash
-cd vue-element-plus-admin
+cd hvui
 
 pnpm install
 
@@ -73,7 +73,7 @@ pnpm run build:pro
 
 ## 如何贡献
 
-你可以[提一个 issue](https://github.com/kailong321200875/vue-element-plus-admin/issues/new) 或者提交一个 Pull Request。
+你可以[提一个 issue](https://github.com/Anly95/hvui/issues/issues/new) 或者提交一个 Pull Request。
 
 **Pull Request:**
 
