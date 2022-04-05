@@ -14,7 +14,7 @@ const List: {
   {
     username: 'admin',
     password: 'admin',
-    role: 'admin',
+    role: '123456',
     roleId: '1'
   },
   {
