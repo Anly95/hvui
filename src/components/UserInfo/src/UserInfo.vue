@@ -51,7 +51,7 @@ const toDocument = () => {
         alt=""
         class="w-[calc(var(--tags-view-height)-10px)] rounded-[50%]"
       />
-      <span class="<lg:hidden text-14px pl-[5px] text-[var(--top-header-text-color)]">Archer</span>
+      <span class="<lg:hidden text-14px pl-[5px] text-[var(--top-header-text-color)]">admin</span>
     </div>
     <template #dropdown>
       <ElDropdownMenu>
